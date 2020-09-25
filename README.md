@@ -1,6 +1,7 @@
 # 신동욱 2015021
 ## movie_app_2020
 React JS Fundamentals Course 2020
+## 09월 25일
 
 ## 09월 18일
 >1. 컴포넌트가 무엇인지 알아보고, JSX를 학습.
